@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Databases
+chroma_db/
+vectordb/
+
+# Uploaded files
+uploads/
+temp/
+
+# Build outputs
+build/
+dist/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
